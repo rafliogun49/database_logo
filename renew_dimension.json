@@ -17,8 +17,8 @@
     "1080 x 1080": {
       "size": "1080 x 1080",
       "used for": "Instagram feed (Square)<br>Facebook marketplace<br>Ads on Facebook reels<br>Facebook Right Hand Column",
-      "mj_value": "--ar 1080:1350",
-      "width": "75px",
+      "mj_value": "--ar 1080:1080",
+      "width": "100px",
       "height": "100px"
     }
   },
