@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Meta",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/bd9b2f42-5e8c-42ce-a7b7-75375a0a66b7.png"
+  },
+  {
+    "name": "Linkedin",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/aa3862a9-13d9-44b9-89d7-7af7b057dc73.png"
+  },
+  {
+    "name": "Twitter",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/dd6e0f9c-362c-4631-9b6c-00f5079d851d.png"
+  },
+  {
+    "name": "Quora",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/c285f7b6-e787-49a6-a1c1-b5ed4a708a53.png"
+  },
+  {
+    "name": "Pinterest",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/bfac73af-3342-4a35-9ff7-74de4e0abe1c.png"
+  },
+  {
+    "name": "Reddit",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/e737231f-5e20-45de-adf4-b32a7a4a7c42.png"
+  },
+  {
+    "name": "GDN",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/f33d6fe7-cb37-4ec0-881b-f4b5d3581185.png"
+  },
+  {
+    "name": "Discovery Ads",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/f33d6fe7-cb37-4ec0-881b-f4b5d3581185.png"
+  },
+  {
+    "name": "PMAX",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/f33d6fe7-cb37-4ec0-881b-f4b5d3581185.png"
+  },
+  {
+    "name": "Youtube",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/c59fd0b7-3f33-4075-8d5a-fb735737e382.png"
+  },
+  {
+    "name": "Tiktok",
+    "image": "https://softr-prod.imgix.net/applications/d60bb19f-ade3-4693-841a-e482c9932abc/assets/bfeb1033-46f2-4972-9a85-ad5afbd9536a.png"
+  }
+]
