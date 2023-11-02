@@ -1,0 +1,437 @@
+{
+  "Meta": {
+    "1080 x 1920": {
+      "size": "1080 x 1920",
+      "used for": "Instagram Story<br>Facebook Story<br>Instagram Reels",
+      "mj_value": "--ar 1080:1920",
+      "width": "56px",
+      "height": "100px"
+    },
+    "1080 x 1350": {
+      "size": "1080 x 1350",
+      "used for": "Instagram Feed (Potrait)",
+      "mj_value": "--ar 1080:1350",
+      "width": "75px",
+      "height": "100px"
+    },
+    "1080 x 1080": {
+      "size": "1080 x 1080",
+      "used for": "Instagram feed (Square)<br>Facebook marketplace<br>Ads on Facebook reels<br>Facebook Right Hand Column",
+      "mj_value": "--ar 1080:1350",
+      "width": "75px",
+      "height": "100px"
+    }
+  },
+  "Linkedin": {
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Image ads (Horizontal)",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    },
+    "1200 x 1200": {
+      "size": "1200 x 1200",
+      "used for": "Image ads (Square)<br>Carousel ads",
+      "mj_value": "--ar 1200:1200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "628 x 1200": {
+      "size": "628 x 1200",
+      "used for": "Image ads (Vertical)",
+      "mj_value": "--ar 628:1200",
+      "width": "52px",
+      "height": "100px"
+    },
+    "1400 x 350": {
+      "size": "1400 x 350",
+      "used for": "Event ads",
+      "mj_value": "--ar 1400:350",
+      "width": "100px",
+      "height": "25px"
+    },
+    "300 x 250": {
+      "size": "300 x 250",
+      "used for": "Conversation ads banner",
+      "mj_value": "--ar 300:250",
+      "width": "100px",
+      "height": "83px"
+    },
+    "100 x 100": {
+      "size": "100 x 100",
+      "used for": "Spotlight Ads<br>Follower Ads",
+      "mj_value": "--ar 100:100",
+      "width": "100px",
+      "height": "100px"
+    }
+  },
+  "Pinterest": {
+    "1000 x 1500": {
+      "size": "1000 x 1500",
+      "used for": "Image Ads<br>Carousel Ads<br>Shopping Ads<br>Showcase Ads",
+      "mj_value": "--ar 1000:1500",
+      "width": "67px",
+      "height": "100px"
+    },
+    "1000 x 1000": {
+      "size": "1000 x 1000",
+      "used for": "Carousel Ads<br>Collection Ads",
+      "mj_value": "--ar 1000:1000",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1080 x 1920": {
+      "size": "1080 x 1920",
+      "used for": "Idea Ads",
+      "mj_value": "--ar 1080:1920",
+      "width": "56px",
+      "height": "100px"
+    }
+  },
+  "Quora": {
+    "1280 x 720": {
+      "size": "1280 x 720",
+      "used for": "Image Ads",
+      "mj_value": "--ar 1280:720",
+      "width": "100px",
+      "height": "45px"
+    }
+  },
+  "Reddit": {
+    "1080x1080": {
+      "size": "1080x1080",
+      "used for": "Image Ads (Square)",
+      "mj_value": "--ar 108:080",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1080x1350": {
+      "size": "1080x1350",
+      "used for": "Image Ads (Portrait)",
+      "mj_value": "--ar 108:350",
+      "width": "79px",
+      "height": "100px"
+    },
+    "1440x1080": {
+      "size": "1440x1080",
+      "used for": "Image Ads (Landscape)",
+      "mj_value": "--ar 144:080",
+      "width": "100px",
+      "height": "69px"
+    },
+    "1920x1080": {
+      "size": "1920x1080",
+      "used for": "Image Ads (Landscape)",
+      "mj_value": "--ar 192:080",
+      "width": "100px",
+      "height": "53px"
+    },
+    "1200 x 1200": {
+      "size": "1200 x 1200",
+      "used for": "Carousel Ads (Desktop only)",
+      "mj_value": "--ar 1200:1200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Carousel Ads<br>Promoted Post On Trending Page",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    },
+    "400 x 300": {
+      "size": "400 x 300",
+      "used for": "Thumbnail",
+      "mj_value": "--ar 400:300",
+      "width": "100px",
+      "height": "75px"
+    },
+    "300 x 600": {
+      "size": "300 x 600",
+      "used for": "Top Banner",
+      "mj_value": "--ar 300:600",
+      "width": "50px",
+      "height": "100px"
+    },
+    "300 x 250": {
+      "size": "300 x 250",
+      "used for": "Sticky Banner",
+      "mj_value": "--ar 300:250",
+      "width": "100px",
+      "height": "83px"
+    }
+  },
+  "Twitter": {
+    "800 x 418": {
+      "size": "800 x 418",
+      "used for": "Image Ads<br>Carousel Ads",
+      "mj_value": "--ar 800:418",
+      "width": "100px",
+      "height": "52px"
+    },
+    "800 x 800": {
+      "size": "800 x 800",
+      "used for": "Image Ads<br>Carousel Ads",
+      "mj_value": "--ar 800:800",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1200 x 1200": {
+      "size": "1200 x 1200",
+      "used for": "Standalone Image Ads",
+      "mj_value": "--ar 1200:1200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Standalone Image Ads",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    }
+  },
+  "Youtube": {
+    "480 x 70": {
+      "size": "480 x 70",
+      "used for": "Overlay Ads",
+      "mj_value": "--ar 480:70",
+      "width": "100px",
+      "height": "15px"
+    },
+    "300 x 250": {
+      "size": "300 x 250",
+      "used for": "Standard display ads",
+      "mj_value": "--ar 300:250",
+      "width": "100px",
+      "height": "83px"
+    },
+    "480 x 480": {
+      "size": "480 x 480",
+      "used for": "Sponsored cards",
+      "mj_value": "--ar 480:480",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1280 x 720": {
+      "size": "1280 x 720",
+      "used for": "Thumbnail",
+      "mj_value": "--ar 1280:720",
+      "width": "100px",
+      "height": "57px"
+    }
+  },
+  "Tiktok": {
+    "640 x 640": {
+      "size": "640 x 640",
+      "used for": "Square Ads",
+      "mj_value": "--ar 640:640",
+      "width": "100px",
+      "height": "100px"
+    },
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Horizontal Ads",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    },
+    "720 x 1280": {
+      "size": "720 x 1280",
+      "used for": "Vertical Ads",
+      "mj_value": "--ar 720:1280",
+      "width": "56px",
+      "height": "100px"
+    }
+  },
+  "GDN": {
+    "468 x 60": {
+      "size": "468 x 60",
+      "used for": "Banner",
+      "mj_value": "--ar 468:60",
+      "width": "100px",
+      "height": "13px"
+    },
+    "728 x 90": {
+      "size": "728 x 90",
+      "used for": "Leaderboard",
+      "mj_value": "--ar 728:90",
+      "width": "100px",
+      "height": "12px"
+    },
+    "930 x 180": {
+      "size": "930 x 180",
+      "used for": "Top banner",
+      "mj_value": "--ar 930:180",
+      "width": "100px",
+      "height": "19px"
+    },
+    "970 x 90": {
+      "size": "970 x 90",
+      "used for": "Large leaderboard",
+      "mj_value": "--ar 970:90",
+      "width": "100px",
+      "height": "9px"
+    },
+    "970 x 250": {
+      "size": "970 x 250",
+      "used for": "Billboard",
+      "mj_value": "--ar 970:250",
+      "width": "100px",
+      "height": "26px"
+    },
+    "980 x 120": {
+      "size": "980 x 120",
+      "used for": "Panorama",
+      "mj_value": "--ar 980:120",
+      "width": "100px",
+      "height": "12px"
+    },
+    "120 x 600": {
+      "size": "120 x 600",
+      "used for": "Skyscraper",
+      "mj_value": "--ar 120:600",
+      "width": "20px",
+      "height": "100px"
+    },
+    "160 x 600": {
+      "size": "160 x 600",
+      "used for": "Wide skyscraper",
+      "mj_value": "--ar 160:600",
+      "width": "27px",
+      "height": "100px"
+    },
+    "300 x 600": {
+      "size": "300 x 600",
+      "used for": "Half-page ad",
+      "mj_value": "--ar 300:600",
+      "width": "50px",
+      "height": "100px"
+    },
+    "300 x 1050": {
+      "size": "300 x 1050",
+      "used for": "Portrait",
+      "mj_value": "--ar 300:1050",
+      "width": "28px",
+      "height": "100px"
+    },
+    "200 x 200": {
+      "size": "200 x 200",
+      "used for": "Small square",
+      "mj_value": "--ar 200:200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "240 x 400": {
+      "size": "240 x 400",
+      "used for": "Vertical rectangle",
+      "mj_value": "--ar 240:400",
+      "width": "60px",
+      "height": "100px"
+    },
+    "250 x 250": {
+      "size": "250 x 250",
+      "used for": "Square",
+      "mj_value": "--ar 250:250",
+      "width": "100px",
+      "height": "100px"
+    },
+    "250 x 360": {
+      "size": "250 x 360",
+      "used for": "Triple widescreen",
+      "mj_value": "--ar 250:360",
+      "width": "100px",
+      "height": "72px"
+    },
+    "300 x 250": {
+      "size": "300 x 250",
+      "used for": "Inline rectangle",
+      "mj_value": "--ar 300:250",
+      "width": "100px",
+      "height": "83px"
+    },
+    "336 x 280": {
+      "size": "336 x 280",
+      "used for": "Large rectangle",
+      "mj_value": "--ar 336:280",
+      "width": "100px",
+      "height": "84px"
+    },
+    "580 x 400": {
+      "size": "580 x 400",
+      "used for": "Netboard",
+      "mj_value": "--ar 580:400",
+      "width": "100px",
+      "height": "69px"
+    },
+    "300 x 50": {
+      "size": "300 x 50",
+      "used for": "Mobile banner",
+      "mj_value": "--ar 300:50",
+      "width": "100px",
+      "height": "17px"
+    },
+    "320 x 100": {
+      "size": "320 x 100",
+      "used for": "Large mobile banner",
+      "mj_value": "--ar 320:100",
+      "width": "100px",
+      "height": "31px"
+    }
+  },
+  "Discovery Ads": {
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Landscape Image",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    },
+    "1200 x 1200": {
+      "size": "1200 x 1200",
+      "used for": "Square image<br>Square logo",
+      "mj_value": "--ar 1200:1200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "960 x 1200": {
+      "size": "960 x 1200",
+      "used for": "Portrait image",
+      "mj_value": "--ar 960:1200",
+      "width": "80px",
+      "height": "100px"
+    }
+  },
+  "PMAX": {
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Landscape Image",
+      "mj_value": "--ar 1200:628",
+      "width": "100px",
+      "height": "52px"
+    },
+    "1200 x 1200": {
+      "size": "1200 x 1200",
+      "used for": "Square image<br>Square logo",
+      "mj_value": "--ar 1200:1200",
+      "width": "100px",
+      "height": "100px"
+    },
+    "960 x 1200": {
+      "size": "960 x 1200",
+      "used for": "Portrait",
+      "mj_value": "--ar 960:1200",
+      "width": "80px",
+      "height": "100px"
+    },
+    "1200 x 300": {
+      "size": "1200 x 300",
+      "used for": "Landscape Logo",
+      "mj_value": "--ar 1200:300",
+      "width": "100px",
+      "height": "25px"
+    }
+  }
+}
