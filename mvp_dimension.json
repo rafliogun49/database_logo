@@ -1,0 +1,25 @@
+{
+  "Meta": {
+    "1080 x 1920": {
+      "size": "1080 x 1920",
+      "used for": "Instagram Story<br>Facebook Story<br>Instagram Reels",
+      "mj_value": "--ar 1080:1920",
+      "width": "56px",
+      "height": "100px"
+    },
+    "1080 x 1350": {
+      "size": "1080 x 1350",
+      "used for": "Instagram Feed (Potrait)",
+      "mj_value": "--ar 1080:1350",
+      "width": "75px",
+      "height": "100px"
+    },
+    "1080 x 1080": {
+      "size": "1080 x 1080",
+      "used for": "Instagram feed (Square)<br>Facebook marketplace<br>Ads on Facebook reels<br>Facebook Right Hand Column",
+      "mj_value": "--ar 1080:1080",
+      "width": "100px",
+      "height": "100px"
+    }
+  }
+}
