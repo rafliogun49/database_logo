@@ -7,12 +7,12 @@
       "width": "56px",
       "height": "100px"
     },
-    "1080 x 1350": {
-      "size": "1080 x 1350",
-      "used for": "Instagram Feed (Potrait)",
-      "mj_value": "--ar 1080:1350",
-      "width": "75px",
-      "height": "100px"
+    "1200 x 628": {
+      "size": "1200 x 628",
+      "used for": "Audience Network ads",
+      "mj_value": "--ar 1200 x 628",
+      "width": "100px",
+      "height": "52px"
     },
     "1080 x 1080": {
       "size": "1080 x 1080",
